@@ -1,0 +1,36 @@
+//
+// user-variables.scss
+// Use this to overwrite Bootstrap and theme variables
+//
+
+// Example of a variable override to change theme's background color
+// Remove the "//" to comment it in and see it in action!
+// $font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+
+$primary: #002a5b !default;
+$secondary: #ef7f00 !default;
+$primary-desat: #6c8aec !default; // NEW
+$success: #2a8c62 !default;
+$info: #009db9 !default;
+$warning: #ffb826 !default;
+$danger: #d72701 !default;
+$light: #eff2f7 !default;
+$dark: #273444 !default;
+
+$white: #ffffff !default;
+
+$gray-100: #dce6f4 !default;
+$gray-200: #bfcada !default;
+$gray-300: #a2aec0 !default;
+$gray-400: #8592a6 !default;
+$gray-500: #68768c !default;
+$gray-600: #4b5a72 !default;
+$gray-700: #2e3e58 !default;
+$gray-800: #11223e !default;
+$gray-900: #00060d !default;
+
+$black: #000000 !default;
+
+$btn-link-color: #00b8d9;
+
+$grid-gutter-width: 1.5rem !default;
