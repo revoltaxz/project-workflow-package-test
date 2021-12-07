@@ -2,6 +2,9 @@
   "name": "@revoltaxz/bricks",
   "version": "1.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "@revoltaxz:registry": "https://npm.pkg.github.com"
+  },
   "repository": "git@github.com:revoltaxz/project-workflow-package-test.git",
   "author": "Guilherme Revolta <guilhermerevolta@gmail.com>",
   "license": "MIT",
